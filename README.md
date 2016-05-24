@@ -1,8 +1,12 @@
-# spark-hands-on: scala-simple
+# helloworld
 
-說明: sbt + scala coding 初體驗
+sbt + scala coding 初體驗
+準備開發環境
 
-* object
-* main function
-* run
-* libraryDependencies
+* sbt
+  * `clean`, `compile`, `run`, `package`
+  * libraryDependencies
+* scala
+  * object
+  * main function
+* import project into [Intellij IDEA Community](https://www.jetbrains.com/idea/download/)
