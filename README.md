@@ -1,8 +1,17 @@
 # spark-hands-on
 
 * 安裝 SBT
-  * [手動安裝 SBT](http://www.scala-sbt.org/0.13/docs/Manual-Installation.html)
-  * Linux/Mac OS X 可使用 [sbt runner](https://github.com/paulp/sbt-extras)
+  * Linux
+    * [一般安裝介紹](http://www.scala-sbt.org/0.13/docs/Installing-sbt-on-Linux.html)
+    * [手動安裝 SBT](http://www.scala-sbt.org/0.13/docs/Manual-Installation.html#Unix)
+    * 使用 [sbt runner](https://github.com/paulp/sbt-extras)
+  * Mac OS X
+    * [一般安裝介紹](http://www.scala-sbt.org/0.13/docs/Installing-sbt-on-Mac.html)
+    * [手動安裝](http://www.scala-sbt.org/0.13/docs/Manual-Installation.html#Unix)
+    * 使用 [sbt runner](https://github.com/paulp/sbt-extras)
+  * Windows
+    * [一般安裝介紹](http://www.scala-sbt.org/0.13/docs/Installing-sbt-on-Windows.html)
+    * [手動安裝](http://www.scala-sbt.org/0.13/docs/Manual-Installation.html#Windows)
 
 * Editor/IDE
   * 唯一推薦 IDE: [Intellij IDEA Community](https://www.jetbrains.com/idea/download/)
