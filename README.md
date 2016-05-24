@@ -4,6 +4,10 @@
   * [手動安裝 SBT](http://www.scala-sbt.org/0.13/docs/Manual-Installation.html)
   * Linux/Mac OS X 可使用 [sbt runner](https://github.com/paulp/sbt-extras)
 
+* Editor/IDE
+  * 唯一推薦 IDE: [Intellij IDEA Community](https://www.jetbrains.com/idea/download/)
+  * 任何你喜歡的 editor
+
 * Branches
   * [empty](https://github.com/spark-hsinchu/spark-hands-on/tree/empty)
      * 只包含兩個檔案: `sbt` 及 `.gitignore`
