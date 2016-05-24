@@ -38,7 +38,7 @@ $ git clone -b empty https://github.com/spark-hsinchu/spark-hands-on.git myhello
 $ cd myhelloworld
 $ vim build.sbt
 ```
-  * WorldCount
+  * WordCount
 ```
 $ git clone -b wordcount https://github.com/spark-hsinchu/spark-hands-on.git wordcount
 $ git clone -b empty https://github.com/spark-hsinchu/spark-hands-on.git mywordcount
